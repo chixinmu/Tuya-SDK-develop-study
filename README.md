@@ -1,7 +1,7 @@
 # Tuya-SDK-develop-study
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices.         For more information, please check Tuya Developer Website.
 
-# 一、方案标题教室
+# 一、方案标题
   自动浇花设备
 # 二、方案应用场景
   ## 地点：
